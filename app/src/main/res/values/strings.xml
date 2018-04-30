@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bonjour</string>
+    <string name="listaNumero">Lista de Numeros</string>
+    <string name="girias">Girias</string>
+    <string name="parentes">Parentes</string>
+    <string name="comida">Comida</string>
+</resources>

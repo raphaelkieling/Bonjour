@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bonjour</string>
+    <string name="listaNumero">Number List</string>
+    <string name="parentes">Parent</string>
+    <string name="comida">Food</string>
+    <string name="girias">Slang</string>
+</resources>
